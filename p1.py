@@ -14,5 +14,5 @@ plt.ylabel('DEC (in deg)')
 
 plt.legend(loc='best')
 plt.grid()
-plt.show()
 plt.savefig('ra_dec.png')
+plt.show()
