@@ -2,6 +2,7 @@ import numpy as np
 
 f1 = open('list_rossetti.dat','w')
 
+a = True
 while a == True:
     name = input("Enter the name of cluster: ")
     ra = input("Enter the RA of cluster: ")
